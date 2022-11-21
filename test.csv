@@ -1,0 +1,21 @@
+,video_name,tag
+0,dataset/train/dance/dance1.mp4,dancing
+1,dataset/train/dance/dance2.mp4,dancing
+2,dataset/train/dance/dance3.mp4,dancing
+3,dataset/train/dance/dance3.mp4,dancing
+4,dataset/train/dance/dance4.mp4,dancing
+5,dataset/train/eating/eating1.mp4,eating
+6,dataset/train/eating/eating2.mp4,eating
+7,dataset/train/eating/eating3.mp4,eating
+8,dataset/train/music/music1.mp4,music
+9,dataset/train/music/music2.mp4,music
+10,dataset/train/music/music3.mp4,music
+11,dataset/train/music/music3.mp4,music
+12,dataset/train/raining/raining1.mp4,raining
+13,dataset/train/raining/raining2.mp4,raining
+14,dataset/train/raining/raining3.mp4,raining
+15,dataset/train/raining/raining4.mp4,raining
+16,dataset/train/yoga/yoga1.mp4,yoga or exercise
+17,dataset/train/yoga/yoga2.mp4,yoga or exercise
+18,dataset/train/yoga/yoga3.mp4,yoga or exercise
+19,dataset/train/yoga/yoga4.mp4,yoga or exercise
